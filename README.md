@@ -1,1 +1,1 @@
-![gif](scrollvid2.gif)
+![screenshot](scroll3.png)

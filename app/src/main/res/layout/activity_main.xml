@@ -50,6 +50,13 @@
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_text" />
 
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/button_for_comment"
+                android:text="@string/add_comment"/>
+
+
         </LinearLayout>
 
 
