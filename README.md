@@ -2,5 +2,5 @@
 ![screenshot](scroll2.png)
 ![screenshot](scroll3.png)
 ![screenshot](scroll4.png)
-![gif](scrollvid1.gif)
+![gif](scrollvid.gif)
 ![gif](scrollvid2.gif)
